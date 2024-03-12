@@ -14,6 +14,7 @@ matplotlib = "^3.8.3"
 setuptools = "^69.1.1"
 seaborn = "^0.13.2"
 scikit-learn-extra = "^0.3.0"
+yellowbrick = "^1.5"
 
 
 [tool.poetry.group.dev.dependencies]
