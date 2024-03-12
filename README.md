@@ -71,3 +71,9 @@
 <img src="images/km-9.png" width="600" style="margin-left: 200px;"/>
 <img src="images/km-10.png" width="600" style="margin-left: 200px;"/>
 <img src="images/km-11.png" width="600" style="margin-left: 200px;"/>
+
+
+
+# Referências
+- https://www.scikit-yb.org/en/latest/api/cluster/elbow.html
+- 
